@@ -1,0 +1,44 @@
+{
+    // Enabled
+    "bitwise"        : true,
+    "camelcase"      : true,
+    "curly"          : true,
+    "eqeqeq"         : true,
+    "es3"            : true,
+    "forin"          : true,
+    "immed"          : true,
+    "indent"         : 4,
+    "latedef"        : true,
+    "newcap"         : true,
+    "noarg"          : true,
+    "nonbsp"         : true,
+    "nonew"          : true,
+    "undef"          : true,
+    "unused"         : true,
+    "strict"         : true,
+    "trailing"       : true,
+
+    // Disabled
+    "freeze"         : false,
+    "noempty"        : false,
+    "plusplus"       : false,
+    "quotmark"       : false,
+    "maxparams"      : false,
+    "maxdepth"       : false,
+    "maxstatements"  : false,
+    "maxcomplexity"  : false,
+    "maxlen"         : false,
+
+    // Rleaxing
+    "eqnull"         : true,
+
+    // Environments
+    "browser"        : true,
+    "devel"          : true,
+    "jquery"         : true,
+
+    "predef"         : [
+        "tre",
+        "Backbone"
+    ]
+}
